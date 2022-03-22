@@ -1,5 +1,5 @@
 {
-  "host": "serum-price-api.vercel.app",
+  "host": "sqid.app",
   "port": 3030,
   "public": "../public/",
   "paginate": {
