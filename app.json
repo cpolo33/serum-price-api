@@ -21,7 +21,7 @@
     "HOST": {
       "description": "Leave as is, unless you know what you are doing",
       "required": true,
-      "value": "localhost"
+      "value": "serum-price-api.vercel.app"
     },
     "NODE_ENV": {
       "description": "Leave as is, unless you know what you are doing",

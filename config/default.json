@@ -1,5 +1,5 @@
 {
-  "host": "localhost",
+  "host": "serum-price-api.vercel.app",
   "port": 3030,
   "public": "../public/",
   "paginate": {

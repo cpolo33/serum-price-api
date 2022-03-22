@@ -5,7 +5,7 @@ const app = require('../src/app');
 
 const port = app.get('port') || 8998;
 const getUrl = (pathname) => url.format({
-  hostname: app.get('host') || 'localhost',
+  hostname: app.get('host') || 'serum-price-api.vercel.app',
   protocol: 'http',
   port,
   pathname,
